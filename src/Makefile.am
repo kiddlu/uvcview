@@ -42,4 +42,4 @@ uvcview_SOURCES = \
 uvcview_LDADD	=	\
 	@PACKAGE_LIBS@	\
 	$(INTLLIBS)		\
-	-lpthread
+	-lpthread -lm
