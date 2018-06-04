@@ -1,0 +1,16 @@
+2007-09-07  Masami Ogoshi  <ogochan@nurs.or.jp>
+
+	* image.h: include sys/time.h
+
+2007-06-07  Masami Ogoshi  <ogochan@nurs.or.jp>
+
+	* cleanup source code
+
+2007-04-11  Masami Ogoshi  <ogochan@nurs.or.jp>
+
+	* src/main.c (read_frame): return value B(
+
+2007-04-09  Masami Ogoshi  <ogochan@nurs.or.jp>
+
+	* first version
+
